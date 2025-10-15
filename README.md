@@ -8,7 +8,7 @@
 
 You can try the fully functional editor right now:
 
-➡️ **[Launch the Paint with Code Web App Here](https://github.com/AndreiEnea15/paint-with-code)** 
+➡️ **[Launch the Paint with Code Web App Here](https://informaticasite.com/painting-with-code/index.html)** 
 
 ---
 
@@ -29,7 +29,7 @@ This project is a single-page static web application. You don't need any complex
 
 ### **Usage**
 
-1.  Visit the **[Live Application Link](https://AndreiEnea15.github.io/paint-with-code/)**.
+1.  Visit the **[Live Application Link](https://informaticasite.com/painting-with-code/index.html)**.
 2.  Start typing JavaScript code in the text editor.
 3.  The canvas will instantly update to show your creation!
 
