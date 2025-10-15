@@ -8,7 +8,7 @@
 
 You can try the fully functional editor right now:
 
-➡️ **[Launch the Paint with Code Web App Here](https://AndreiEnea15.github.io/paint-with-code/)**
+➡️ **[Launch the Paint with Code Web App Here](https://github.com/AndreiEnea15/paint-with-code)** 
 
 ---
 
