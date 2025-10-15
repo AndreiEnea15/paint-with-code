@@ -1,0 +1,16 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+# This is usually not needed for a CDN-based project, 
+# but good to include if you ever switch to local node modules.
+node_modules/
+/dist
+/build
+
+# Log and Temp Files
+*.log
+*.tmp
